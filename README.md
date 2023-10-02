@@ -1,1 +1,2 @@
 # TaskTracker-CheckItOff
+TaskTracker is a responsive to-do list web application that helps you manage your tasks and stay organized. With an intuitive user interface, you can easily add, complete, and remove tasks. The application provides a user-friendly experience on both desktop and mobile devices, allowing you to stay productive on the go. TaskTracker simplifies task management, ensuring that you never forget an important task again. Start using TaskTracker to streamline your daily workflow and boost your productivity.
